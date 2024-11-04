@@ -11,7 +11,6 @@
     from concurrent.futures import ThreadPoolExecutor, as_completed
     from colorama import Fore, Style, init
     
-    # Инициализация colorama и логирования
     init(autoreset=True)
     logging.basicConfig(filename='attack_log.txt', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
     
@@ -119,7 +118,7 @@
         for command in commands:
             self.run_command(command, "T50 attack")
 
-    # Методы атак для siege
+
     def siege_attack(self):
         commands = [
             f"siege -t 1m {self.target_ip}",
