@@ -1,3 +1,21 @@
+# It is not useless to say that you probably got to pre-install a few tools before. And better to use a virtual enviroment.
+## I do use Kali, so i have all those things by default. But you probably will have to install the following:
+
+    sudo apt-get install siege t50 hping3
+
+## As i said before, better would be to use a virtual enviroment. Just for any case, i will provide steps for it, with dependencies:
+
+    # move to directory you installed responder
+
+    python3 -m venv env && source env/bin/activate
+
+    # you now must see (env) before your name, if so, do next:
+
+    pip install --upgrade pip
+    pip install tkinter colorama aiohttp asyncio threadpoolexecutor subprocesses logging
+
+## And make sure you have python3.9 +, root rights and you use it with respect to License
+
     #!/usr/bin/python3
 
     import os
@@ -131,7 +149,7 @@
         for command in commands:
             self.run_command(command, "Siege attack")
 
-    #    profits from this type of code building is possibility to add/or configure that much attacks as you want.
+    # profits from this type of code building is possibility to add/or configure that much attacks as you want.
 
     def run_command(self, command, description):
         try:
