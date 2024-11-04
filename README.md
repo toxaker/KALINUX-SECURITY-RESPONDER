@@ -133,6 +133,32 @@ sudo apt-get install hping3 siege
 ## License
 This code is licensed under a self-defense and educational use license. You may use, modify, and distribute this code, but **only** for legal, educational, and defensive testing purposes. The author holds no liability for misuse.
 
+MIT License
+
+Copyright (c) 2024 Kalinux
+
+Everyone has a right to copy, modify, use and share. The only thing this license prohibits is the use of this code for illegal purposes and for all other purposes that do not fall under the categories of penetration testing, security testing, or training.
+
+The author is not responsible for any actions of people who copied and/or used this code or its fragments.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 ---
 
 ---
@@ -264,5 +290,31 @@ sudo apt-get install hping3 siege
 
 ## Лицензия
 Код лицензирован для использования в целях самозащиты и обучения. Вы можете использовать, модифицировать и распространять его, но **только** в законных, образовательных и защитных целях. Автор не несет ответственности за злоупотребления.
+
+MIT License
+
+Copyright (c) 2024 Kalinux
+
+Everyone has a right to copy, modify, use and share. The only thing this license prohibits is the use of this code for illegal purposes and for all other purposes that do not fall under the categories of penetration testing, security testing, or training.
+
+The author is not responsible for any actions of people who copied and/or used this code or its fragments.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ---
