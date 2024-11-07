@@ -1,12 +1,14 @@
 # KALINUX-SECURITY-RESPONDER
 
 > **If it happens that you got attacked, or your system/server - make this guy regret about it.**
-> Not my responsibility.
 
-![image](https://github.com/user-attachments/assets/afb890c2-82d9-4eb7-b99e-ca8beced16d3)
+![IMG_0569](https://github.com/user-attachments/assets/83a39e20-8b13-49f3-8cb5-0e644600ac09)
+
 
 
 I created this code solely for educational/testing purposes, or to use as a self-defense tool. I prohibit its use for illegal purposes or as a means of attacking someone's property without their consent and I am not responsible for any actions of people who violate these terms.
+
+![image](https://github.com/user-attachments/assets/afb890c2-82d9-4eb7-b99e-ca8beced16d3)
 
 Everyone has a right to copy, modify, use, and share. The only thing this license prohibits is the use of this code for illegal purposes and for all other purposes that do not fall under the categories of penetration testing, security testing, or training.
 
